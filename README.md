@@ -1,2 +1,2 @@
-ExpressionEvaluator--Scheme-
+Expression Evaluator [Scheme]
 ============================
